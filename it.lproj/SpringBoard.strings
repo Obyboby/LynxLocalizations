@@ -132,5 +132,25 @@
     <string>Disabilita Fly-In icone</string>
     <key>SYSTEM_WIDE</key>
     <string>Tutto il sistema</string>
+    <key>HIDE_VOLUME_HUD</key>
+    <string>Nascondi HUD volume</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>Numero colonne personalizzato</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>Usa stile moderno</string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>Forza Titoli piccoli</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>Nascondi feedback beta</string>
+    <key>VOLUME_HUD</key>
+    <string>HUD Volume</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Disabilita su Homescreen</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Nascondi indicatori beta</string>
+    <key>DISABLE_SCREENSHOT_SOUND</key>
+    <string>Disabilita suono screenshot</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Nascondi su Lockscreen</string>
 </dict>
 </plist>

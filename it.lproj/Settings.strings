@@ -1,18 +1,38 @@
 <plist version="1.0">
 <dict>
+    <key>APPLE_ID</key>
+    <string>Apple ID</string>
+    <key>USE_CUSTOM_FIRST_NAME</key>
+    <string>Cambia nome</string>
+    <key>FIRST_NAME</key>
+    <string>Nome</string>
+    <key>USE_CUSTOM_LAST_NAME</key>
+    <string>Cambia cognome</string>
+    <key>LAST_NAME</key>
+    <string>Cognome</string>
     <key>CELLS</key>
     <string>Celle</string>
     <key>HIDE_THIRD_PARTY_APPS</key>
     <string>Nascondi Apps di terze parti</string>
     <key>HIDE_CELL_ICONS</key>
     <string>Nascondi icone celle</string>
+    <key>HIDE_CHEVRONS</key>
+    <string>Nascondi frecce</string>
     <key>NETWORK</key>
     <string>Rete</string>
     <key>SHOW_IP_ADDRESS</key>
     <string>Mostra indirizzo IP</string>
     <key>SHOW_ETHERNET_SECTION</key>
     <string>Mostra sezione Ethernet</string>
+    <key>OTHER</key>
+    <string>Altro</string>
+    <key>ADD_INFO_BUTTON</key>
+    <string>Aggiungi tasto Info</string>
     <key>SETTINGS</key>
     <string>Impostazioni</string>
+    <key>UPDATES</key>
+    <string>Aggiornamenti</string>
+    <key>HIDE_UPDATES_BADGE</key>
+    <string>Nascondi badge aggiornamenti</string>
 </dict>
 </plist>

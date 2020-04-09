@@ -20,5 +20,7 @@
     <string>Disabilita chiusura App in riproduzione</string>
     <key>APP_SWITCHER</key>
     <string>App Switcher</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Scala personalizzata per App cards</string>
 </dict>
 </plist>
