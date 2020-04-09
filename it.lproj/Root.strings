@@ -52,5 +52,15 @@
     <string>Traduzioni</string>
     <key>CONTRIBUTORS</key>
     <string>Collaboratori</string>
+    <key>TROUBLESHOOTING</key>
+    <string>Troubleshooting</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Guarda Satiné</string>
+    <key>APPLY_BUTTON</key>
+    <string>Applica</string>
+    <key>TWEAK_BLACKLIST</key>
+    <string>Tweak Blacklist</string>
+    <key>DISABLE_IN</key>
+    <string>Disabilita Lynx in App</string>
 </dict>
 </plist>

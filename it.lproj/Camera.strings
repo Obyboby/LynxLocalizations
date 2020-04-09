@@ -10,5 +10,9 @@
     <string>Nascondi anteprima foto recenti</string>
     <key>CAMERA</key>
     <string>Fotocamera</string>
+    <key>SHUTTER_SOUND</key>
+    <string>Suono scatto</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Disabilita suono scatto</string>
 </dict>
 </plist>

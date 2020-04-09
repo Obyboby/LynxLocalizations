@@ -92,5 +92,27 @@
     <string>Nascondi Media Player</string>
     <key>LOCKSCREEN</key>
     <string>Lockscreen</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>Usa feeedback aptico</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Non disturbare</string>
+    <key>HIDE_BANNER</key>
+    <string>Nascondi Banner</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Altezza notifiche</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>Font personalizzato</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>Testo personalizzato</string>
+    <key>CUSTOM_TEXT</key>
+    <string>Testo</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Mostra subito</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Mostra sempre notifiche precedenti</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Swipe più morbido</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Nascondi separatori swipe</string>
 </dict>
 </plist>

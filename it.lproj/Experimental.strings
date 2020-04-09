@@ -12,5 +12,15 @@
     <string>Forzare il layout automatico potrebbe far "saltare" le icone quando un gruppo di notifiche viene aperto</string>
     <key>EXPERIMENTAL</key>
     <string>Sperimentale</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Disabilita Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Angoli schermo arrotondati funziona solo su dispositivi senza notch</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Angoli schermo arrotondati</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Disabilita su Homescreen</string>
 </dict>
 </plist>

@@ -14,5 +14,11 @@
     <string>Disabilita realmente i pulsanti</string>
     <key>CONTROL_CENTER</key>
     <string>Centro di Controllo</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Moduli scuri</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Moduli scuri non funziona con il toggle Torcia</string>
+    <key>TOGGLES</key>
+    <string>Toggles</string>
 </dict>
 </plist>
